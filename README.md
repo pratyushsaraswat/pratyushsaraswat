@@ -108,7 +108,6 @@ Working on backend systems and cloud-native services focused on scalability, per
 
 * Developed and maintained REST APIs and microservices with a focus on **performance, scalability, fault tolerance, and maintainability**.
 
-* Worked on onboarding and supporting enterprise-scale clients, including **Bajaj Finserv**.
 
 ---
 
