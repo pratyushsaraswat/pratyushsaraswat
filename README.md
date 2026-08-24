@@ -207,7 +207,7 @@ I regularly practice:
 
 </p>
 
-📄 **[View My Resume](https://bit.ly/3ZdL9qA](https://bit.ly/4qxP7pY)**
+📄 **[View My Resume](https://bit.ly/4qxP7pY)**
 
 ---
 
