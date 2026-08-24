@@ -54,7 +54,16 @@ Currently working at **Netcore Cloud**, where I work on backend services, cloud 
 ### Backend
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot"/>
+<!-- Python -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+
+<!-- Java -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+
+<!-- C++ -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+
+<!-- Node.js -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/>
 </p>
 
@@ -102,7 +111,7 @@ Working on backend systems and cloud-native services focused on scalability, per
 
 * Contributed to the **AWS → GCP migration**, developing custom integrations and utilizing **Cloud Run and Compute Engine** for scalable cloud deployments.
 
-* Implemented **Redis-based caching**, reducing database load by approximately **70%** and improving API response times from around **800ms to 200ms**.
+* Implemented **Redis-based caching**, reducing database load by approximately **70%** and improving API response times from around **8s to 200ms**.
 
 * Worked with **Kafka and Google Pub/Sub** to build asynchronous and event-driven backend workflows.
 
@@ -127,37 +136,6 @@ A real-time communication backend designed using Go and distributed system conce
 * Leveraged Go concurrency for handling multiple connections
 * Designed backend APIs with scalability and low latency in mind
 
----
-
-## 🧠 CKD Prediction
-
-**Python • Scikit-learn • Machine Learning**
-
-Machine learning system for predicting Chronic Kidney Disease using classification techniques.
-
-**Highlights**
-
-* Data preprocessing and feature engineering
-* Classification model development
-* Model evaluation and performance analysis
-* Explored privacy-preserving machine learning approaches
-
----
-
-## 📹 Smart CCTV
-
-**Python • OpenCV • Computer Vision**
-
-Computer vision-based surveillance system for detecting and analyzing objects from CCTV footage.
-
-**Highlights**
-
-* Real-time video processing
-* Object detection
-* Computer vision-based analysis
-* Automated surveillance processing
-
----
 
 # 🧠 Problem Solving
 
@@ -180,16 +158,6 @@ I regularly practice:
 * Recursion & Backtracking
 * Heap / Priority Queue
 
----
-
-# 🏆 Achievements
-
-* 🧠 **900+ LeetCode problems solved**
-* 🏅 **Top 10 institute rank** among 8,000+ students on GeeksforGeeks
-* 🥉 **3rd Position — National Science Olympiad**
-* 💻 Participated in a **Hackathon organized by Chandigarh Police**
-
----
 
 # 📊 GitHub Stats
 
@@ -233,13 +201,13 @@ I regularly practice:
 <img src="https://img.shields.io/badge/GitHub-PratyushSaraswat-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:pratyushsaraswat9@gmail.com">
-<img src="https://img.shields.io/badge/Email-pratyushsaraswat9%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:pratyushsaraswat24@gmail.com">
+<img src="https://img.shields.io/badge/Email-pratyushsaraswat24%40gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
-📄 **[View My Resume](https://bit.ly/3ZdL9qA)**
+📄 **[View My Resume](https://bit.ly/3ZdL9qA](https://bit.ly/4qxP7pY)**
 
 ---
 
