@@ -1,4 +1,4 @@
-# Hi, I'm Pratyush Saraswat 👋
+# Hi, I'm Pratyush Saraswat 
 
 ### Software Engineer | Backend Developer | Go | Java | Cloud | Distributed Systems
 
@@ -23,23 +23,23 @@ Currently working at **Netcore Cloud**, where I work on backend services, cloud 
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-* 💼 **Software Developer @ Netcore Cloud**
-* ⚙️ Specialized in **Backend Development & Microservices**
-* 🚀 Experienced with **Go, Java, Spring Boot**
-* ☁️ Worked on **AWS → GCP Cloud Migration**
-* 🔥 Built services handling **100K+ requests/hour**
-* 📈 Worked on systems supporting **10M+ users**
-* ⚡ Improved API response times from **800ms → 200ms**
-* 🗄️ Reduced database load by approximately **70% using Redis caching**
-* 📨 Experienced with **Kafka, RabbitMQ & Google Pub/Sub**
-* 🧠 Solved **900+ LeetCode problems**
-* 🎯 Interested in **Distributed Systems, System Design & Scalable Backend Architecture**
+*  **Software Developer @ Netcore Cloud**
+*  Specialized in **Backend Development & Microservices**
+*  Experienced with **Go, Java, Spring Boot**
+*  Worked on **AWS → GCP Cloud Migration**
+*  Built services handling **100K+ requests/hour**
+*  Worked on systems supporting **10M+ users**
+*  Improved API response times from **800ms → 200ms**
+*  Reduced database load by approximately **70% using Redis caching**
+*  Experienced with **Kafka, RabbitMQ & Google Pub/Sub**
+*  Solved **900+ LeetCode problems**
+*  Interested in **Distributed Systems, System Design & Scalable Backend Architecture**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -120,9 +120,9 @@ Working on backend systems and cloud-native services focused on scalability, per
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 💬 Real-Time Chat Application
+##  Real-Time Chat Application
 
 **Go • Redis • MongoDB • WebSockets**
 
@@ -137,7 +137,7 @@ A real-time communication backend designed using Go and distributed system conce
 * Designed backend APIs with scalability and low latency in mind
 
 
-# 🧠 Problem Solving
+#  Problem Solving
 
 ## LeetCode
 
@@ -159,7 +159,7 @@ I regularly practice:
 * Heap / Priority Queue
 
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratyushsaraswat&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -172,7 +172,7 @@ I regularly practice:
 
 ---
 
-# 📚 Currently Exploring
+#  Currently Exploring
 
 * Advanced **Go**
 * **Spring Boot**
@@ -207,7 +207,7 @@ I regularly practice:
 
 </p>
 
-📄 **[View My Resume](https://bit.ly/4qxP7pY)**
+**[View My Resume](https://bit.ly/4qxP7pY)**
 
 ---
 
